@@ -1,0 +1,14 @@
+{
+  "name": "express_blog",
+  "version": "1.0.0",
+  "description": "test and practice nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Born",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
